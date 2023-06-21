@@ -1,5 +1,5 @@
 # Sommaire
-- # [FastApi](part_1/part_1.md)
+# FastApi
 - ## [Introduction](part_1/part_1.md)
 - ## [GET](part_2/part_2.md)
 - ## [Operation description](part_3/part_3.md)
@@ -11,6 +11,6 @@
 - ## [File](part_9/part_9.md)
 - ## [Task](part_10/part_10.md)
 - ## [Dependencies](part_11/part_11.md)
-- # [Docker](part_12/part_1/part_1.md)
+# Docker
 - ## [Introduction](part_12/part_1/part_1.md)
 - ## [Docker](part_12/part_2/part_2.md)
