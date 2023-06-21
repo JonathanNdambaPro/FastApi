@@ -1,0 +1,7 @@
+lib
+lib64
+bin
+__pycache__
+include
+fastapi-test.db
+fastapi-env
